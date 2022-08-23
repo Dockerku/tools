@@ -2,7 +2,7 @@
 
 # maintainer: -
 # version: 1.1
-# BSM_Docker_version: 0.60
+# BSM_Docker_version: 0.01
 
 red='\033[0;31m'
 green='\033[0;32m'
