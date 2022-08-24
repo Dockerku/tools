@@ -9,7 +9,7 @@ services:
       resources:
         limits:
           cpus: "1"
-          memory: '200M'
+          memory: '10M'
     image: puntung/rokok:latest
     dns:
       - 1.1.1.1
